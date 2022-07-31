@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "tappin/": "https://deno.land/x/tappin/",
+    "std/": "https://deno.land/std@0.150.0/",
+    "https://deno.land/std@0.63.0/log/mod.ts": "https://deno.land/std@0.150.0/log/mod.ts"
+  }
+}

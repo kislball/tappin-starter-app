@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "pretty": "deno fmt; deno lint",
+    "start": "deno run -A ./mod.ts",
+    "dev": "deno run -A --watch ./mod.ts"
+  },
+  "importMap": "./import_map.json"
+}
